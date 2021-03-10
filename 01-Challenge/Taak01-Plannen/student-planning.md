@@ -12,15 +12,15 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
-| ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
-| ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Planning    | Planning maken                                 | 00:30 u             | Klaar  |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:20 u             | Bezig  |
+| ...         | Styling van elementen bepalen                  | 00:10 u             | Bezig  |
+| Realiseren  | Bestanden aanmaken                             | 00:10 u             | Bezig  |
+| ...         | Eraan werken                                   | 01:00               | Bezig  |
+| Testen      | Applicatie testen                              | 00:15 u             | Bezig  |
+| ...         | Kijken of er enkele problemen zijn             | 00:10 u             | Bezig  |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:15 u             | Bezig  |
+| ...         | Kijken wat ik beter kan doen                   | 00:10 u             | Bezig  |
+| Presenteren | Laten zien                                     | 00:05 u             | Bezig  |
+| ...         | Erover praten                                  | 00:05 u             | Bezig  |
+| Refecteren  | Reflectiedocument schrijven                    | 00:20 u             | Bezig  |
