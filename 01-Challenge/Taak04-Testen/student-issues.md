@@ -2,6 +2,6 @@
 
 ## Issuelijst
 
-1. ...
-2. ...
-3. ...
+1. 
+2. 
+3. link online zetten
