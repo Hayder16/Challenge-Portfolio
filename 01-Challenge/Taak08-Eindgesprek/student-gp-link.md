@@ -4,4 +4,4 @@ Student : `Hayder Abidi`
 
 Klas    : `LCTAOO0C`
 
-Link    : [github_username.github.io](https://Hayder16.github.io/Challenge-Portfolio/portfolio/home.html)
+Link    : [github_username.github.io](https://Hayder16.github.io/Challenge-Portfolio/)
