@@ -18,6 +18,7 @@ h4{
 
 /* Add a black background color to the top navigation */
 .topnav {
+    font-family: 'Courier New', Courier, monospace;
     background-color: #333;
     overflow: hidden;
     display: flex;
